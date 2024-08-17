@@ -1,1 +1,1 @@
-In this project we create a dynamic dashboard in Excel with bike sale dataset.
+In this project we dynamic dashboards in Excel, PowerBI and Tableau

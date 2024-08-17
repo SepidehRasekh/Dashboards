@@ -1,1 +1,1 @@
-In this project we dynamic dashboards in Excel, PowerBI and Tableau
+In this project we create dynamic dashboards in Excel, PowerBI and Tableau
